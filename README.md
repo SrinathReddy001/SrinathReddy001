@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SrinathReddy.
+- 👀 I’m interested in bringing change in the world with tech.
+- 🌱 I’m currently learning flutter,machine learning.
+- 💞️ I’m looking to collaborate on any flutter project.
+- 📫 you can reach me out through srinath2133@gmail.com
